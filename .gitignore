@@ -1,0 +1,6 @@
+.env
+token.txt
+checkpoint.json
+checkpoint.json.tmp
+*.log
+__pycache__/

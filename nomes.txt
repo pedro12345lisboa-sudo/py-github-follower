@@ -1,0 +1,6 @@
+# Um nome por linha. Linhas vazias e linhas iniciadas por # sao ignoradas.
+torvalds
+octocat
+gaearon
+sindresorhus
+@kentcdodds
